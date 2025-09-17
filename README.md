@@ -1,7 +1,5 @@
 # High-Resolution-Range-Profile-Missing-Scenarios
 
-# HRRP-RadarGen Dataset (WIP)
-
 This repository will host a subset of radar and generated data used in our research on conditional generation of High-Resolution Range Profiles (HRRP) for maritime targets. 
 
 **This repository is currently under preparation. Data will be released soon.**
